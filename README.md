@@ -6,9 +6,10 @@ euismod neque arcu euismod neque arcu, congue faucibus lacus pellentesque id. Ae
 vitae lorem condimentum tellus pellentesque lacinia eget non quam. Fusce blandit leo
 sed sapien sagittis vestibulum. Sed aliquet mauris sit amet purus ornare tincidunt.
 
- * one
- * two
- * three
+ + one
+ - two
+ + three
+ - four
 
 Phasellus sapien lectus, pretium id volutpat vel, pretium
 porttitor mi. Integer eu placerat orci, id molestie mauris.
